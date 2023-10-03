@@ -1,0 +1,14 @@
+C:\Users\ASUS Vivobook\Desktop\tic tak teo\bin\Debug\net7.0\tic tak teo.exe
+C:\Users\ASUS Vivobook\Desktop\tic tak teo\bin\Debug\net7.0\tic tak teo.deps.json
+C:\Users\ASUS Vivobook\Desktop\tic tak teo\bin\Debug\net7.0\tic tak teo.runtimeconfig.json
+C:\Users\ASUS Vivobook\Desktop\tic tak teo\bin\Debug\net7.0\tic tak teo.dll
+C:\Users\ASUS Vivobook\Desktop\tic tak teo\bin\Debug\net7.0\tic tak teo.pdb
+C:\Users\ASUS Vivobook\Desktop\tic tak teo\obj\Debug\net7.0\tic tak teo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS Vivobook\Desktop\tic tak teo\obj\Debug\net7.0\tic tak teo.AssemblyInfoInputs.cache
+C:\Users\ASUS Vivobook\Desktop\tic tak teo\obj\Debug\net7.0\tic tak teo.AssemblyInfo.cs
+C:\Users\ASUS Vivobook\Desktop\tic tak teo\obj\Debug\net7.0\tic tak teo.csproj.CoreCompileInputs.cache
+C:\Users\ASUS Vivobook\Desktop\tic tak teo\obj\Debug\net7.0\tic tak teo.dll
+C:\Users\ASUS Vivobook\Desktop\tic tak teo\obj\Debug\net7.0\refint\tic tak teo.dll
+C:\Users\ASUS Vivobook\Desktop\tic tak teo\obj\Debug\net7.0\tic tak teo.pdb
+C:\Users\ASUS Vivobook\Desktop\tic tak teo\obj\Debug\net7.0\tic tak teo.genruntimeconfig.cache
+C:\Users\ASUS Vivobook\Desktop\tic tak teo\obj\Debug\net7.0\ref\tic tak teo.dll
